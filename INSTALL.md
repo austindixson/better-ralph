@@ -10,7 +10,7 @@ Better Ralph is included in Aether-Claw Node. No separate install.
 
 ### Prerequisites
 
-- [Aether-Claw Node](https://github.com/RuneweaverStudios/Aether-Claw-Node-Version) cloned and set up
+- [Aether-Claw Node](https://github.com/austindixson/Aether-Claw-Node-Version) cloned and set up
 - `OPENROUTER_API_KEY` in `.env` (run `node src/cli.js onboard` if needed)
 - A git repo with a `prd.json` in the project root
 

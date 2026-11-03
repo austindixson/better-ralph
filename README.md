@@ -42,7 +42,7 @@ Better Ralph keeps Ralph’s design: one story per iteration, progress.txt, expl
 
 ## Requirements
 
-- **[Aether-Claw Node](https://github.com/RuneweaverStudios/Aether-Claw-Node-Version)** (runtime; clone it to run Better Ralph)
+- **[Aether-Claw Node](https://github.com/austindixson/Aether-Claw-Node-Version)** (runtime; clone it to run Better Ralph)
 - **OpenRouter API key** in `.env`
 - **Git** repo and a **prd.json** in the project root (see `prd.json.example`)
 
@@ -117,5 +117,5 @@ Plus the usual Aether-Claw tools: read_file, write_file, edit, exec, git_status,
 
 - [Ralph](https://github.com/snarktank/ralph) – Original autonomous loop (Amp / Claude Code)
 - [Geoffrey Huntley’s Ralph pattern](https://ghuntley.com/ralph/)
-- [Aether-Claw Node](https://github.com/RuneweaverStudios/Aether-Claw-Node-Version) – Runtime and CLI (run `node src/cli.js ralph` from that repo)
-- [OpenClaw Tools and Workflows](https://github.com/RuneweaverStudios/Aether-Claw-Node-Version/blob/main/docs/OPENCLAW_TOOLS_AND_WORKFLOWS.md) – Tool list including Ralph tools
+- [Aether-Claw Node](https://github.com/austindixson/Aether-Claw-Node-Version) – Runtime and CLI (run `node src/cli.js ralph` from that repo)
+- [OpenClaw Tools and Workflows](https://github.com/austindixson/Aether-Claw-Node-Version/blob/main/docs/OPENCLAW_TOOLS_AND_WORKFLOWS.md) – Tool list including Ralph tools
